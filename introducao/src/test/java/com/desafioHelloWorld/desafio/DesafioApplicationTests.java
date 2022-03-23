@@ -1,10 +1,10 @@
-package com.helloworld.hello;
+package com.desafioHelloWorld.desafio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloApplicationTests {
+class DesafioApplicationTests {
 
 	@Test
 	void contextLoads() {

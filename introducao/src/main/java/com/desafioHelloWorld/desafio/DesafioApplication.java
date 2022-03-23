@@ -1,13 +1,13 @@
-package com.helloworld.hello;
+package com.desafioHelloWorld.desafio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloApplication {
+public class DesafioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloApplication.class, args);
+		SpringApplication.run(DesafioApplication.class, args);
 	}
 
 }
